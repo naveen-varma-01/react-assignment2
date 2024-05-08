@@ -1,0 +1,19 @@
+.list-cont {
+  list-style-type: none;
+  background-color: transparent;
+  border: 2px solid #b6c3ca;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+.btns {
+  background-color: transparent;
+  border: none;
+  margin-top: 20px;
+}
+
+.para {
+  color: #ffffff;
+}
